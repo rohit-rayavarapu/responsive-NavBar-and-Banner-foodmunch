@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+#custom-nav-link1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-nav-link2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-nav-link3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-nav-link4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+.food-munch-logo {
+    height: 70px;
+    width: 80px;
+}
+
+
+.banner-section-bg-container {
+    background-size: cover;
+    height: 100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+
+}
+
+.banner-section-content-container{
+
+    text-align: center;
+   
+} 
+
+
+.banner-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 45px;
+}
+
+
+.banner-caption {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: #ffffff;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-width: 0;
+    background-color: #d0b200;
+}
+
+.custom-outline-button {
+    width: 130px;
+    height: 45px;
+    color: #ffffff;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
